@@ -1,2 +1,1 @@
-# anitamaxwynn
-Informatics Capstone 2024 
+# Informatics Capstone 2024 
